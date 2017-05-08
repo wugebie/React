@@ -1,0 +1,5 @@
+babel-loader babel-core webpack css-loader style-loader extract-text-webpack-plugin html-webpack-plugin
+
+
+reat:
+babel-plugin-react-transform babel-preset-latest babel-preset-react react react-dom
